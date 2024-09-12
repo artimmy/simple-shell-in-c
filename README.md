@@ -10,3 +10,5 @@ pretty cool.  Since it's a simple implementation, it has some limitations.
 * No quoting arguments or escaping whitespace.
 * No piping or redirection.
 * Only builtins are: `cd`, `help`, `exit`.
+
+Thanks to Stephen Brennan for writting this amazing and easy-to-follow tutorial: https://brennan.io/2015/01/16/write-a-shell-in-c/
